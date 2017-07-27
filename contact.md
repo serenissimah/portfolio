@@ -5,7 +5,7 @@ permalink: /contact/
 feature-img: "img/color.png"
 ---
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+Please contact me if you are interested exchanging some ideas:
 
 <form action="https://getsimpleform.com/messages?api_token=88f717f7a71f52a2a3e8e3457c188b75" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
